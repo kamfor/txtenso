@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP nrf52SiP
+D Bluetooth SiP module
+K bluetooth module
+F http://www.insightsip.com/fichiers_insightsip/pdf/ble/ISP1302/isp_ble_DS1302.pdf
+$ENDCMP
+#
+#End Doc Library
