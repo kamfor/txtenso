@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1114
+D ADS1114
+K ADS111 Texas amplifier
+F http://www.ti.com/lit/ds/symlink/ads1114.pdf
+$ENDCMP
+#
+#End Doc Library

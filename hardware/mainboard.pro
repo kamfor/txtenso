@@ -1,4 +1,4 @@
-update=17.08.2016 08:59:10
+update=17.08.2016 12:41:08
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=nrf52sip
+LibName31=ads1114
